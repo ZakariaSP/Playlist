@@ -1,0 +1,98 @@
+/* 
+#body{
+    background-image: url("B2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+} */
+#Content{
+    background-color: #6495ed;
+    width: 600px;
+    height: 520px;
+    margin: auto;
+    transform: translateY(16%);
+}
+header{
+    text-align: center;
+    height: 160px;
+}
+#title{
+    text-align: center;
+    color: snow;
+    margin-top: 16px;
+    font-size: 26px;
+    font-style: italic;
+}
+
+#text{
+    text-align: center;
+    color: snow;
+    font-size: 20px;
+    margin-top: -12px;
+    font-style: italic;
+    font-weight: 600;
+}
+#pict{
+    margin-top: 16px;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+}
+#Playsic{
+   background-color: whitesmoke;
+   height: 300px;
+}
+#btns{
+    padding:20px 0;
+    display: flex;
+    justify-content: center;
+}
+#btns img{
+    margin:0 14px;
+    width: 40px;
+    height: 40px;
+}
+#volume{
+    margin-top: 20px;
+    text-align: center;    
+}
+#volume input{
+    width: 30%;
+    height: 4px;
+}
+h3{
+    margin: 16px 0;
+    color: rgb(59, 59, 59);
+    font-style: italic;
+}
+#background{
+    text-align: center;
+    margin-top: 30px;
+}
+#background button{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: none;
+}
+#backg1{
+   background: #6495ed;
+   
+}
+#backg2{
+   background: rgb(252, 82, 82);
+}
+#backg3{
+background: #51f0bb;
+}
+
+#foot{
+    text-align: center;
+    background-color: #6495ed;
+    height: 60px;
+}
+.icon{
+    padding-top: 8px;
+    width: 50px;
+    height: 50px;
+}
